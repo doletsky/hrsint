@@ -1,0 +1,3 @@
+<?
+$MESS['title']='O SPOLEČNOSTI'; 
+?>

@@ -1,0 +1,67 @@
+<?
+$aMenuLinks = Array(
+	Array(
+		"Ekipa",
+		"/svn/about/team/",
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"O HRS",
+		"/svn/about/hrs/",
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Stranke",
+		"/svn/about/client/",
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Mnenja",
+		"/svn/about/reviews/",
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"HRS TV", 
+		"/svn/about/tv/",
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Naši partnerji",
+		"/svn/about/partners/",
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Novice",
+		"/svn/about/news/",
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Webinars",
+		"/svn/about/webinars/",
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Kariera",
+		"/svn/about/vacancies/",
+		Array(), 
+		Array(), 
+		"" 
+	)
+);
+?>

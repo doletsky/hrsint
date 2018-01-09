@@ -1,0 +1,3 @@
+<p>A HRS piacvezető számítástechnikai vállalat. A leginnovatívabb megoldásokat kínáljuk ügyfeleink részére, és segítünk nekik abban, hogy azonnal megkezdhessék jövőjük felépítését.</p>
+<p>Csapatunk elhivatott szakemberekből áll, akik elkötelezettek a projektek hatékony és átlátható végrehajtása mellett. Akár globális nagyvállalattal, akár egy korai szakaszban lévő vállalkozással van dolgunk, munkánk során mindig tájékozott, intelligens hozzáállást tanúsítunk. </p>
+<p>Növekvő piaci jelenlétünk és hírnevünk bizonyítja, hogy a piac hozzáértő és megbízható partnerként tekint a HRS-re.</p>

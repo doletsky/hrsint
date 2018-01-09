@@ -1,0 +1,60 @@
+<?
+$aMenuLinks = Array(
+	Array(
+		"About HRS", 
+		"/eng/about/hrs/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Clients", 
+		"/eng/about/client/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Reviews", 
+		"/eng/about/reviews/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"HRS TV", 
+		"/eng/about/tv/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Partners", 
+		"/eng/about/partners/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"News", 
+		"/eng/about/news/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Webinars", 
+		"/eng/about/webinars/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Vacancies", 
+		"/eng/about/vacancies/", 
+		Array(), 
+		Array(), 
+		"" 
+	)
+);
+?>

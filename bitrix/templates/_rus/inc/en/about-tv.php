@@ -1,0 +1,1 @@
+<p>HRS is committed to new technologies. That's why we make movies on our systems and we spread recording our client events.</p>

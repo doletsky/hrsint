@@ -1,0 +1,1 @@
+<img src="/upload/medialibrary/f79/f790347c8ea139800afc80158b31f71b.jpg" title="Team.jpg" border="0" alt="Team.jpg" width="600" height="230"  />

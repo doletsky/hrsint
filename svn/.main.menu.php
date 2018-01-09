@@ -1,0 +1,39 @@
+<?
+$aMenuLinks = Array(
+	Array(
+		"O PODJETJU", 
+		"/svn/about/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"REŠITVE", 
+		"/svn/solution/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"PRODUKTI", 
+		"/svn/products/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"STRANKE", 
+		"/svn/about/client/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"KONTAKTI", 
+		"/svn/contacts/", 
+		Array(), 
+		Array(), 
+		"" 
+	)
+);
+?>

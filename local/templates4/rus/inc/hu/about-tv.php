@@ -1,0 +1,1 @@
+<p>A HRS elkötelezett az új technológiák bevezetése mellett. Ennek megfelelően rendszereinkről filmeket készítünk, valamint közzétesszük az ügyféleseményeinkről készült felvételeket.</p>

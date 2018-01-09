@@ -1,0 +1,34 @@
+<?
+$MESS["Вход в личный кабинет"]="Bejelentkezés regisztrált felhasználóknak";
+$MESS["Вход в личный кабинет1"]="Bejelentkezés regisztrált felhasználóknak";
+$MESS["Регистрация"]="Bejegyzés";
+$MESS["Забыли пароль"]="Elfelejtett jelszó";
+$MESS["Логин"]="Belépek";
+$MESS["Пароль"]="Jelszó";
+$MESS["Войти"]="Belép";
+$MESS["Выберите ваш тип бизнеса"]="Válasszon Üzlet Típust";
+$MESS["Отели и курорты"]="Szállodák és Resortok";
+$MESS["Рестораны и комплексы"]="Éttermek és Komplexumok";
+$MESS["Спортивные объекты"]="Sportlétesítmények";
+$MESS["SPA и фитнес"]="SPA és fitness";
+$MESS["Ритейл"]="Kereskedelmi egységek";
+$MESS["Учебные заведения"]="Iskolák";
+$MESS["form"]="Megrendelőlap";
+$MESS["Что вы ищете?"]="Keresés";
+$MESS["Следите за нами"]="Kövess minket";
+$MESS[""]="";
+$MESS[""]="";
+$MESS[""]="";
+$MESS[""]="";
+$MESS[""]="";
+$MESS[""]="";
+$MESS[""]="";
+$MESS[""]="";
+$MESS[""]="";
+$MESS[""]="";
+$MESS[""]="";
+$MESS[""]="";
+$MESS[""]="";
+$MESS[""]="";
+$MESS[""]="";
+?>

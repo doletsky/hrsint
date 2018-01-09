@@ -1,0 +1,10 @@
+
+.overlay {
+	background: url('../images/black_background.png');
+}
+.solutions-table.business-type td a .st-title-wrap .st-title {
+	padding-left: 0;
+}
+.styled-input {
+	line-height: 30px;
+}

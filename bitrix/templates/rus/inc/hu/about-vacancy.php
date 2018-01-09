@@ -1,0 +1,1 @@
+<p>Csapatunkban mindig van hely új szakemberek számára. Nézze át a jelenleg felkínált állások listáját, és talán már ezen a héten elkezdhet velünk dolgozni!</p>

@@ -1,0 +1,1 @@
+<span style="color: rgb(53, 53, 53); font-size: 14.6667px; background-color: rgb(252, 253, 255);">Tvrtka HRS je službeni zastupnik tvrtkama Oracle, Bartech, Knowcross, Meeting Matrix, ATOSS, HP nа području Istočne i Sredi&scaron;nje Europe, Središnje Azije. </span>

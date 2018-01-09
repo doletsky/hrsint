@@ -1,0 +1,6 @@
+<?
+$sSectionName = "Webinars";
+$arDirProperties = Array(
+
+);
+?>

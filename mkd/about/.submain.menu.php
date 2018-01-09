@@ -1,0 +1,67 @@
+<?
+$aMenuLinks = Array(
+	Array(
+		"Екипа",
+		"/mkd/about/team/",
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"За HRS",
+		"/mkd/about/hrs/",
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Клиенти",
+		"/mkd/about/client/",
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Одзиви",
+		"/mkd/about/reviews/",
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"HRS TV", 
+		"/mkd/about/tv/",
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Партнери",
+		"/mkd/about/partners/",
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Новини",
+		"/mkd/about/news/",
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Webinars",
+		"/mkd/about/webinars/",
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Кариери централа",
+		"/mkd/about/vacancies/",
+		Array(), 
+		Array(), 
+		"" 
+	)
+);
+?>

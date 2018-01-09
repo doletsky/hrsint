@@ -1,0 +1,34 @@
+<?
+$MESS["Вход в личный кабинет"]="Login for registered users";
+$MESS["Вход в личный кабинет1"]="Login for registered users";
+$MESS["Регистрация"]="Registration";
+$MESS["Забыли пароль"]="Forgot password";
+$MESS["Логин"]="Login";
+$MESS["Пароль"]="Password";
+$MESS["Войти"]="Enter";
+$MESS["Выберите ваш тип бизнеса"]="Choose your type of business";
+$MESS["Отели и курорты"]="Hotels and Resorts";
+$MESS["Рестораны и комплексы"]="Restaurants and complexes";
+$MESS["Спортивные объекты"]="Sports facilities";
+$MESS["SPA и фитнес"]="SPA and fitness";
+$MESS["Ритейл"]="Retail";
+$MESS["Учебные заведения"]="Schools";
+$MESS["form"]="Order form";
+$MESS["Что вы ищете?"]="Search";
+$MESS["Следите за нами"]="Follow us";
+$MESS[""]="";
+$MESS[""]="";
+$MESS[""]="";
+$MESS[""]="";
+$MESS[""]="";
+$MESS[""]="";
+$MESS[""]="";
+$MESS[""]="";
+$MESS[""]="";
+$MESS[""]="";
+$MESS[""]="";
+$MESS[""]="";
+$MESS[""]="";
+$MESS[""]="";
+$MESS[""]="";
+?>

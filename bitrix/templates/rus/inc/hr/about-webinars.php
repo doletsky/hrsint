@@ -1,0 +1,2 @@
+
+<p class="MsoNormal" style="margin-bottom: 0.0001pt; line-height: normal;"><span lang="SR-LATN-RS" style="font-size: 11pt; color: rgb(53, 53, 53); background: rgb(252, 253, 255);">Usvajajte napredna rje&scaron;enja upravljanja poduzećima skupa sa HRS Akademijom. Profesionalno, lako i pristupačno!</span><span lang="EN-US" style="font-size: 11pt; color: rgb(53, 53, 53); background: rgb(252, 253, 255);"> <o:p></o:p></span></p>

@@ -1,0 +1,14 @@
+
+.subscribe-ie-tip {
+	display: block;
+	margin: 0 10px 5px !important;
+}
+.mni-wrap,
+.ms-controls li,
+.mn-nested-wrap,
+.h-lang {
+	background: url('../images/transparent.png');
+}
+.order-form {
+	width: 480px;
+}

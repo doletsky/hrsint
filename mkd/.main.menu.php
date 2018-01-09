@@ -1,0 +1,39 @@
+<?
+$aMenuLinks = Array(
+	Array(
+		"За компанијата",
+		"/mkd/about/",
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Решенија",
+		"/mkd/solution/",
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Производи",
+		"/mkd/products/",
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Клиенти",
+		"/mkd/about/client/",
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Контакти",
+		"/mkd/contacts/",
+		Array(), 
+		Array(), 
+		"" 
+	)
+);
+?>

@@ -1,0 +1,53 @@
+<?
+$aMenuLinks = Array(
+	Array(
+		"Екипа", 
+		"/mkd/about/team/",
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Клиенти",
+		"/mkd/about/client/",
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Партнери",
+		"/mkd/about/partners/",
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Одзиви",
+		"/mkd/about/reviews/",
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Новини",
+		"/mkd/about/news/",
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Политика за обработа на личните податоци",
+		"/mkd/about/policy-of-personal-data-processing/",
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"кариери централа",
+		"/mkd/about/vacancies/",
+		Array(), 
+		Array(), 
+		"" 
+	)
+);
+?>
