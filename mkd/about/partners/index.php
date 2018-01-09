@@ -5,7 +5,7 @@ require($_SERVER["DOCUMENT_ROOT"]."/bitrix/modules/main/include/prolog_after.php
 ?>
 <?$APPLICATION->IncludeComponent("bitrix:news.list", "partners", Array(
 	"IBLOCK_TYPE" => "mkd_dir",	// Тип информационного блока (используется только для проверки)
-	"IBLOCK_ID" => "129",	// Код информационного блока
+	"IBLOCK_ID" => "138",	// Код информационного блока
 	"NEWS_COUNT" => "200",	// Количество новостей на странице
 	"SORT_BY1" => "SORT",	// Поле для первой сортировки новостей
 	"SORT_ORDER1" => "ASC",	// Направление для первой сортировки новостей

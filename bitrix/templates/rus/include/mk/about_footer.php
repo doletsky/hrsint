@@ -433,7 +433,7 @@
 			<div class="ab-right">
 				<?$APPLICATION->IncludeComponent("bitrix:news.list", "partners_anons", Array(
 					"IBLOCK_TYPE" => "mkd_dir",	// Тип информационного блока (используется только для проверки)
-					"IBLOCK_ID" => "129",	// Код информационного блока
+					"IBLOCK_ID" => "138",	// Код информационного блока
 					"NEWS_COUNT" => "8",	// Количество новостей на странице
 					"SORT_BY1" => "SORT",	// Поле для первой сортировки новостей
 					"SORT_ORDER1" => "ASC",	// Направление для первой сортировки новостей
